@@ -67,4 +67,4 @@ This project provides a comprehensive analysis and visualization of wildfire act
 ## **Map Display Limitation:**
 Due to notebook constraints, the map showing marked wildfire regions in Australia is not visible in the notebook. Refer to the attached image below for a visual representation.
 
-![aus_map_image](https://github.com/JayshreeMishra/images/blob/main/Aus_fire_map.jpeg)
+![aus_map_image](https://github.com/JayshreeMishra/analyzing_wildfire_activities_in_australia/blob/main/Aus_fire_map.jpeg)
